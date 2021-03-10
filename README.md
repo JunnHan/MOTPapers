@@ -5,3 +5,6 @@
 
 [Attention Is All You Need](https://github.com/JunnHan/MOTPapers/issues/2)  
 [[code, NIPS2017]](https://github.com/jadore801120/attention-is-all-you-need-pytorch)  
+
+[End-to-End Object Detection with Transformers](https://github.com/JunnHan/MOTPapers/issues/3)
+[[code, ECCV2020]](https://github.com/facebookresearch/detr)
