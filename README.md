@@ -5,8 +5,8 @@
 
 [End-to-End Object Detection with Transformers](https://github.com/JunnHan/MOTPapers/issues/3)  
 [[code, ECCV2020]](https://github.com/facebookresearch/detr)  
-[DETR for Crowd Pedestrian Detection]
-[[code]](https://github.com/Hatmm/PED-DETR-for-Pedestrian-Detection)
+[DETR for Crowd Pedestrian Detection](https://github.com/JunnHan/MOTPapers/issues/4)  
+[[code]](https://github.com/Hatmm/PED-DETR-for-Pedestrian-Detection)  
 
 ### 多目标跟踪
 
