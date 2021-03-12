@@ -7,6 +7,8 @@
 [[code, ECCV2020]](https://github.com/facebookresearch/detr)  
 2. [DETR for Crowd Pedestrian Detection](https://github.com/JunnHan/MOTPapers/issues/4)  
 [[code]](https://github.com/Hatmm/PED-DETR-for-Pedestrian-Detection)  
+3. [Deformable DETR: Deformable Transformers for End-to-End Object Detection](https://github.com/JunnHan/MOTPapers/issues/5)  
+[[code]](https://github.com/fundamentalvision/Deformable-DETR)  
 
 ### 多目标跟踪
 
