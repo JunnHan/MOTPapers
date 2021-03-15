@@ -3,7 +3,7 @@
 
 ### 目标检测
 
-1. [End-to-End Object Detection with Transformers](https://github.com/JunnHan/MOTPapers/issues/3)  
+1. ### √ [End-to-End Object Detection with Transformers](https://github.com/JunnHan/MOTPapers/issues/3)  
 [[code, ECCV2020]](https://github.com/facebookresearch/detr)  
 2. [DETR for Crowd Pedestrian Detection](https://github.com/JunnHan/MOTPapers/issues/4)  
 [[code]](https://github.com/Hatmm/PED-DETR-for-Pedestrian-Detection)  
@@ -19,5 +19,5 @@
 
 ### 相关拓展
 
-1. [Attention Is All You Need](https://github.com/JunnHan/MOTPapers/issues/2)  
+1. ### √ [Attention Is All You Need](https://github.com/JunnHan/MOTPapers/issues/2)  
 [[code, NIPS2017]](https://github.com/jadore801120/attention-is-all-you-need-pytorch)  
