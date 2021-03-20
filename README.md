@@ -18,6 +18,8 @@
 [[code, ECCV2020]](https://github.com/pjl1995/CTracker)  
 2. ***√*** [Track to Detect and Segment: An Online Multi-Object Tracker](https://github.com/JunnHan/MOTPapers/issues/7)  
 [[code, CVPR2021]](https://github.com/JialianW/TraDeS)  
+3. [Learning a Proposal Classifier for Multiple Object Tracking](https://github.com/JunnHan/MOTPapers/issues/8)  
+[[code, CVPR2021]](https://github.com/daip13/LPC_MOT)  
 
 ### 相关拓展
 
