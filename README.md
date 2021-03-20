@@ -16,7 +16,7 @@
 
 1. [Chained-Tracker: Chaining Paired Attentive Regression Results for End-to-End Joint Multiple-Object Detection and Tracking](https://github.com/JunnHan/MOTPapers/issues/1)  
 [[code, ECCV2020]](https://github.com/pjl1995/CTracker)  
-2. [Track to Detect and Segment: An Online Multi-Object Tracker](https://github.com/JunnHan/MOTPapers/issues/7)  
+2. ***√*** [Track to Detect and Segment: An Online Multi-Object Tracker](https://github.com/JunnHan/MOTPapers/issues/7)  
 [[code, CVPR2021]](https://github.com/JialianW/TraDeS)  
 
 ### 相关拓展
