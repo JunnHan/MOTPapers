@@ -21,6 +21,11 @@
 3. [Learning a Proposal Classifier for Multiple Object Tracking](https://github.com/JunnHan/MOTPapers/issues/8)  
 [[code, CVPR2021]](https://github.com/daip13/LPC_MOT)  
 
+### 实例分割
+
+1. [End-to-End Video Instance Segmentation with Transformers](https://github.com/JunnHan/MOTPapers/issues/9)  
+[[code, CVPR2021 Oral]](https://github.com/Epiphqny/VisTR)  
+
 ### 相关拓展
 
 1. ***√*** [Attention Is All You Need](https://github.com/JunnHan/MOTPapers/issues/2)  
