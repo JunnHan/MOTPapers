@@ -21,7 +21,7 @@
 
 ### 实例分割
 
-1. [End-to-End Video Instance Segmentation with Transformers](https://github.com/JunnHan/MOTPapers/issues/9)  
+1. ***√*** [End-to-End Video Instance Segmentation with Transformers](https://github.com/JunnHan/MOTPapers/issues/9)  
 [[code, CVPR2021 Oral]](https://github.com/Epiphqny/VisTR)  
 
 ### 重识别
