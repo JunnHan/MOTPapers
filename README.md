@@ -24,6 +24,10 @@
 1. [End-to-End Video Instance Segmentation with Transformers](https://github.com/JunnHan/MOTPapers/issues/9)  
 [[code, CVPR2021 Oral]](https://github.com/Epiphqny/VisTR)  
 
+### 重识别
+
+1. [TransReID: Transformer-based Object Re-Identification](https://github.com/JunnHan/MOTPapers/issues/6)
+
 ### 相关拓展
 
 1. ***√*** [Attention Is All You Need](https://github.com/JunnHan/MOTPapers/issues/2)  
