@@ -18,6 +18,7 @@
 [[code, CVPR2021]](https://github.com/JialianW/TraDeS)  
 3. [Learning a Proposal Classifier for Multiple Object Tracking](https://github.com/JunnHan/MOTPapers/issues/8)  
 [[code, CVPR2021]](https://github.com/daip13/LPC_MOT)  
+4. [Multiple Object Tracking with Correlation Learning](https://github.com/JunnHan/MOTPapers/issues/10)  
 
 ### 实例分割
 
